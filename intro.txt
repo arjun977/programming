@@ -1,0 +1,2 @@
+- Git is a distributed version control system
+- reponsible for tracking all the changes within a project
